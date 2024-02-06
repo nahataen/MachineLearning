@@ -105,4 +105,4 @@ El script realiza las siguientes operaciones:
     print(f"El rendimiento del modelo es: {rendimiento_modelo:.2%}")
     ```
 
-¡Esperamos que encuentres útil este script para realizar predicciones de temperatura utilizando regresión lineal!
+[Creado por Nahataen](https://github.com/nahataen)
